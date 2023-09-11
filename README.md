@@ -1,0 +1,1 @@
+# fastapi-farm-stack-front
