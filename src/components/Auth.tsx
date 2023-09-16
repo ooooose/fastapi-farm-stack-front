@@ -24,7 +24,7 @@ export const Auth = () => {
     )
   }
   return (
-    <div className="flex justify-center items-center flex-col text-gray-600 font-mono">
+    <div className="flex justify-center items-center flex-col min-h-screen text-gray-600 font-mono">
       <div className="flex items-center">
         <BadgeCheckIcon className="h-8 w-8 mr-2 text-blue-500" />
         <span className="text-center text-3xl font-extrabold">
